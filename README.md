@@ -1,17 +1,11 @@
 # 808 Official Development Repository
-
 # From PPC Peercoin
 
 sha256 pos/pow
 808% pos apr
-8.08 days
+8.08 days 
 
-port 8087
-rpc port 8085
-
-This text will be updated. 
-
-This is a coin take-over, with just one goal: Get 808 coin back to life! 
+This is a coin take-over, with just one goal: Get 808 coin back to life, because this coin was almost dead... In a few weeks we will launch 808coin.net. 
 
 Always wanted to in a crypto team? Then this is something for you! We are looking for developers, marketeers, webdesigners and so on, to build an amazing community and get this coin started!
 
@@ -51,13 +45,6 @@ Coinmarketcap
 Whoppa: https://coinmarketcap.com/currencies/808coin/ 
 We need to fix this CMC page! There is no website! 
 
-windows version:https://mega.nz/#!uIpT2BpK!bsaedSTYZ4gqN_RgHBEqljiK5uzMSiR-CBFRln8Lrcs
-alternate link:https[Suspicious link removed]
-virus scan results:https://www.virustotal.com/#/file/fcf73d83a9f8785f991593e87f082af201016fb69117603b425a7b0364486e96/detection
-older versions:
-Raspbian OS for PoS-mining 808coin: Thanks Dart_Veider http://darkjedy.blogspot.ru/2017/02/808-coin-pos-mining-machine.html
-808-qt wallet for Linux:https://dfiles.ru/files/8flgdzpwb
-Mac: works on os x 10.6-10.11 https://mega.nz/#!SQhCDLba!3OSQfZfYTJmmSSSXxfRA8GSO6e5YScVEe1V8NB47-ys
 Port=8087
 rpcport=8085
 
