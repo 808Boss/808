@@ -12,7 +12,6 @@ rpc port 8085
 This text will be updated. 
 
 This is a coin take-over, with just one goal: Get 808 coin back to life! 
-and because i need a hobby Wink 
 
 Always wanted to in a crypto team? Then this is something for you! We are looking for developers, marketeers, webdesigners and so on, to build an amazing community and get this coin started!
 
